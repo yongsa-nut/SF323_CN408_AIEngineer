@@ -25,7 +25,7 @@ The course will survey the recent emerging technologies in AI engineer. The topi
 | Week  |   Topic   |  Video   | Homework |
 | ----- | --------- | -------- | -------- |
 | 4th August | [Introduction to AI Engineer and LLM Basics](https://docs.google.com/presentation/d/1DHT9uj6Bu3dvzIUpJMOZhuaeOJ8-NACoX9ELPisYZgU/edit?usp=sharing)  | [Video]  | [HW] |
-| 11th August  | [LLM and Prompt Engineering]  | [Video]  | [HW] |
+| 11th August  | [LLM and Prompt Engineering Basic](https://docs.google.com/presentation/d/1DBNlR0YpQqyu4Bdaknfua8tPO-eH6PuYLTMgFQhsiAM/edit?usp=sharing)  | [Video]  | [HW] |
 | 18th August  | [Prompt Engineering and Evaluation] | [Video] | [HW] |
 | 25th August  | [Retrieval Augmented Generation] | [Video] | [HW] | 
 | 1st September  | [Multimodal and Tool Use]        | [Video] | [HW] |
