@@ -27,7 +27,7 @@ The course will survey the recent emerging technologies in AI engineer. The topi
 | 4th August | [Introduction to AI Engineer and LLM Basics](https://docs.google.com/presentation/d/1DHT9uj6Bu3dvzIUpJMOZhuaeOJ8-NACoX9ELPisYZgU/edit?usp=sharing)  | [Video]  | [HW] |
 | 11th August  | [LLM and Prompt Engineering Basic](https://docs.google.com/presentation/d/1DBNlR0YpQqyu4Bdaknfua8tPO-eH6PuYLTMgFQhsiAM/edit?usp=sharing)  | [Video]  | [HW] |
 | 18th August  | [Evaluations and More Prompting](https://docs.google.com/presentation/d/1NH4JsQTrVNqNAQIOnPHmlg1ViU3KvRd28XUHbcaDyXQ/edit?usp=sharing) | [Video] | [HW] |
-| 25th August  | [Retrieval Augmented Generation] | [Video] | [HW] | 
+| 25th August  | [Retrieval Augmented Generation](https://docs.google.com/presentation/d/1uNUzHf_ltUM1bfSlY3I0JbnfgbMAZ5hIPpyN6JdvgSY/edit?usp=sharing) | [Video] | [HW] | 
 | 1st September  | [Multimodal and Tool Use]        | [Video] | [HW] |
 | 8th September  | [Image/Video/Audio Gen and Workflow Automation] | [Video] | [HW] |
 | 15th September  | [Agentic AI and Context Engineer] | [Video] | [HW] |
