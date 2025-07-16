@@ -30,7 +30,7 @@ The course will survey the recent emerging technologies in AI engineer. The topi
 | 25th August  | [Retrieval Augmented Generation](https://docs.google.com/presentation/d/1uNUzHf_ltUM1bfSlY3I0JbnfgbMAZ5hIPpyN6JdvgSY/edit?usp=sharing) | [Video] | [HW] | 
 | 1st September  | [Multimodal and Tool Use]        | [Video] | [HW] |
 | 8th September  | [Image/Video/Audio Gen and Workflow Automation] | [Video] | [HW] |
-| 15th September  | [Agentic AI and Context Engineer] | [Video] | [HW] |
+| 15th September  | [Agentic AI and Context Engineer] | [Video] |     |
 | 22th September  | Midterm - Project Proposal       | [Video] |      |
 | 29th September  | [Model Context Protocal]         | [Video] | [HW] |
 | 6th October | [Coding with AI]  | [Video] | [HW] |
