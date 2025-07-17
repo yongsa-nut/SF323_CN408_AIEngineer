@@ -1,0 +1,46 @@
+,instruction,category,intent
+0,I cannot afford purchase {{Order Number}},ORDER,cancel_order
+1,"I have bought some item, I have to cancel order {{Order Number}}",ORDER,cancel_order
+2,"I do not want this item, cancel order {{Order Number}}",ORDER,cancel_order
+3,I need assistance with canceling purchase {{Order Number}},ORDER,cancel_order
+4,were can i cancel purchase {{Order Number}},ORDER,cancel_order
+5,I have to delete several items from purchase {{Order Number}},ORDER,change_order
+6,updating purchase {{Order Number}},ORDER,change_order
+7,update purchase00123842,ORDER,change_order
+8,I want assistance editing purchase  {{Order Number}},ORDER,change_order
+9,I have to delete an item from order {{Order Number}},ORDER,change_order
+10,can I see what payment methods are available?,PAYMENT,check_payment_methods
+11,I want assistance to check the goddamn payment methods,PAYMENT,check_payment_methods
+12,I don't know how I can list the allowed payment methods,PAYMENT,check_payment_methods
+13,i want assistance to list the payment methods,PAYMENT,check_payment_methods
+14,can you tell me your damn payment methods?,PAYMENT,check_payment_methods
+15,I try to check in which situations can I ask for a refund,REFUND,check_refund_policy
+16,need assistance to check ur reimbursement policy,REFUND,check_refund_policy
+17,I need help seeing in which cases can I ask for a reufnd,REFUND,check_refund_policy
+18,how to check ur refund policy,REFUND,check_refund_policy
+19,need assistance seeing in which cases can i request a refund,REFUND,check_refund_policy
+20,"I paid {{Currency Symbol}}{{Refund Amount}} for this product, I need to get a rebate",REFUND,get_refund
+21,I am trying to receive a compensation,REFUND,get_refund
+22,i need assistance demanding compensations of my money,REFUND,get_refund
+23,I try to ask fopr a refund of my money,REFUND,get_refund
+24,need assistance to obtain a refund of my money,REFUND,get_refund
+25,can you help me reporting problems with online payment?,PAYMENT,payment_issue
+26,assistance to notify of issues with online payments,PAYMENT,payment_issue
+27,i cant make payments how to inform of issues with payment,PAYMENT,payment_issue
+28,"I cannot make a payment, I want help to report a problem",PAYMENT,payment_issue
+29,how do I notify of an issue with payment?,PAYMENT,payment_issue
+30,I want assistance doing a purchase,ORDER,place_order
+31,"I have to shop a few of your product, how could I do it?",ORDER,place_order
+32,I have to buy some of yout item,ORDER,place_order
+33,need assistance purchasing some of ur article,ORDER,place_order
+34,i dont know what i have to do to buy an article,ORDER,place_order
+35,where to see the bloody ETA of the order {{Order Number}},ORDER,track_order
+36,checking status of order {{Order Number}},ORDER,track_order
+37,see purchase {{Order Number}} current status,ORDER,track_order
+38,how can i see order {{Order Number}} status,ORDER,track_order
+39,help seeing the ETA of order {{Order Number}},ORDER,track_order
+40,i expect a rebate of {{Currency Symbol}}{{Refund Amount}},REFUND,track_refund
+41,I am waiting for a restitution of {{Currency Symbol}}{{Refund Amount}},REFUND,track_refund
+42,I'm waiting for a restitution of {{Refund Amount}} dollars,REFUND,track_refund
+43,I want to know if there are any news on my refund,REFUND,track_refund
+44,I expect an refund of {{Refund Amount}} dollars,REFUND,track_refund
