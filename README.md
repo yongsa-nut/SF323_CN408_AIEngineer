@@ -18,7 +18,7 @@ Classroom:
 - CN 408: TBA
 
 ## Course overview 
-The course will survey the recent emerging technologies in AI engineer. The topic includes large language models, Prompt Engineering, Retrieval Augmented Generation, and Image Generation Models. The course will cover several case studies, including roleplaying, user experiences, coding agents, knowledge agents, and multimodal agents.
+The course will survey the recent emerging technologies in AI engineer. The topic includes large language models, Prompt Engineering, Retrieval Augmented Generation, and Agentic AI. The course will cover several case studies, including roleplaying, user experiences, coding agents, knowledge agents, and multimodal agents.
 
 ## Tentative Schedule
 
