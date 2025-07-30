@@ -30,7 +30,7 @@ The course will survey the recent emerging technologies in AI engineer. The topi
 | 25th August  | [Retrieval Augmented Generation](https://docs.google.com/presentation/d/1uNUzHf_ltUM1bfSlY3I0JbnfgbMAZ5hIPpyN6JdvgSY/edit?usp=sharing) | [Video] | [HW 4](https://colab.research.google.com/github/yongsa-nut/SF323_CN408_AIEngineer/blob/main/SF323_CN408_HW4_RAG.ipynb) | 
 | 1st September  | [Multimodal and Tool Use](https://docs.google.com/presentation/d/1m4oGmIG0AEWPzGRLE91tN92YYK6qfPhcshrFWnQd9aw/edit?usp=sharing)        | [Video] | [HW] |
 | 8th September  | [Workflow Automation and Image/Video Models](https://docs.google.com/presentation/d/1yuE0LyGs_QcitW7hImUT8IanbxFg5oLrBK0a8AvEnRo/edit?usp=sharing) | [Video] | [HW] |
-| 15th September  | [Agentic AI and Context Engineer](https://docs.google.com/presentation/d/1IhXy5kkGN_hzEQCc-29lNLuQOcKIzO7JdlJvNqB2eN8/edit?usp=sharing) | [Video] |     |
+| 15th September  | [Agentic AI and Context Engineering](https://docs.google.com/presentation/d/1IhXy5kkGN_hzEQCc-29lNLuQOcKIzO7JdlJvNqB2eN8/edit?usp=sharing) | [Video] |     |
 | 22th September  | Project Proposal       | [Video] |      |
 | 29th September  | [Model Context Protocal](https://docs.google.com/presentation/d/1liRkqR0hd32iNpeDWKN1hLh6yXC1PDSBm5_WpOpJW8w/edit?usp=sharing)         | [Video] | [HW] |
 | 6th October | [Coding with AI](https://docs.google.com/presentation/d/1LV3OCTOiTSE2N9UUBqhezuc5-zT3EJVE6tAyzsuNYms/edit?usp=sharing)  | [Video] | [HW] |
