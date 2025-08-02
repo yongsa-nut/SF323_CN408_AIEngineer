@@ -14,8 +14,8 @@ Class Time:
 - CN 408: Wednesday 13:30 - 16:30
 
 Classroom: 
-- SF 323: TBA
-- CN 408: TBA
+- SF 323: EGR204-5
+- CN 408: EGR505/2
 
 ## Course overview 
 The course will survey the recent emerging technologies in AI engineer. The topic includes large language models, Prompt Engineering, Retrieval Augmented Generation, and Agentic AI. The course will cover several case studies, including roleplaying, user experiences, coding agents, knowledge agents, and multimodal agents.
