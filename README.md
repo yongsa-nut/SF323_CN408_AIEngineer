@@ -14,7 +14,7 @@ Class Time:
 - CN 408: Wednesday 13:30 - 16:30
 
 Classroom: 
-- SF 323: EGR204-5
+- SF 323: EGR601-1
 - CN 408: EGR505/2
 
 ## Course overview 
