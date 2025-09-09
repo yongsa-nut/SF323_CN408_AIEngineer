@@ -32,7 +32,7 @@ The course will survey the recent emerging technologies in AI engineer. The topi
 | 8th September  | [Workflow Automation (n8n)](https://docs.google.com/presentation/d/1yuE0LyGs_QcitW7hImUT8IanbxFg5oLrBK0a8AvEnRo/edit?usp=sharing) | [Video] | [HW 6](https://docs.google.com/document/d/19i5HPZlJc5EIkRHC5TZsJlWRgrEb1x8-bB4t3bocJL8/edit?usp=sharing) |
 | 15th September  | [Agentic AI and Context Engineering](https://docs.google.com/presentation/d/1IhXy5kkGN_hzEQCc-29lNLuQOcKIzO7JdlJvNqB2eN8/edit?usp=sharing) | [Video] |     |
 | 22th September  | Project Proposal       | [Video] |      |
-| 29th September  | [Model Context Protocal](https://docs.google.com/presentation/d/1liRkqR0hd32iNpeDWKN1hLh6yXC1PDSBm5_WpOpJW8w/edit?usp=sharing)         | [Video] | [HW] |
+| 29th September  | [Model Context Protocal](https://docs.google.com/presentation/d/1liRkqR0hd32iNpeDWKN1hLh6yXC1PDSBm5_WpOpJW8w/edit?usp=sharing)         | [Video] | [HW 7](https://docs.google.com/document/d/1iMavq-cddAGIcMo59NFiQKi7e8x45gZrhNHedX17Auc/edit?usp=sharing) |
 | 6th October | [Coding Agents and Coding with AI](https://docs.google.com/presentation/d/1LV3OCTOiTSE2N9UUBqhezuc5-zT3EJVE6tAyzsuNYms/edit?usp=sharing)  | [Video] | [HW] |
 | 13th October | [Knowledge Agents](https://docs.google.com/presentation/d/1c_kGY0UTSfTOE4k4rv5TiVaBPcV_u4GBgyOaT_uiWPA/edit?usp=sharing) | [Video] | [HW] |
 | 20th October | [Safety](https://docs.google.com/presentation/d/1Q0x7J3SWK9U-RUF3pHHTDRN4qJQTYhGFndZ6k5OCXZI/edit?usp=sharing)          | [Video]  | [HW](https://docs.google.com/document/d/1np9JUQaU7-6Nn5cNSgk74zTgbeovykfXudqCfzYlTvk/edit?usp=sharing) |
