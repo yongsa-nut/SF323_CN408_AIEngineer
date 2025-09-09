@@ -35,7 +35,7 @@ The course will survey the recent emerging technologies in AI engineer. The topi
 | 29th September  | [Model Context Protocal](https://docs.google.com/presentation/d/1liRkqR0hd32iNpeDWKN1hLh6yXC1PDSBm5_WpOpJW8w/edit?usp=sharing)         | [Video] | [HW] |
 | 6th October | [Coding Agents and Coding with AI](https://docs.google.com/presentation/d/1LV3OCTOiTSE2N9UUBqhezuc5-zT3EJVE6tAyzsuNYms/edit?usp=sharing)  | [Video] | [HW] |
 | 13th October | [Knowledge Agents](https://docs.google.com/presentation/d/1c_kGY0UTSfTOE4k4rv5TiVaBPcV_u4GBgyOaT_uiWPA/edit?usp=sharing) | [Video] | [HW] |
-| 20th October | [Safety](https://docs.google.com/presentation/d/1Q0x7J3SWK9U-RUF3pHHTDRN4qJQTYhGFndZ6k5OCXZI/edit?usp=sharing)          | [Video]  | [HW] |
+| 20th October | [Safety](https://docs.google.com/presentation/d/1Q0x7J3SWK9U-RUF3pHHTDRN4qJQTYhGFndZ6k5OCXZI/edit?usp=sharing)          | [Video]  | [HW](https://docs.google.com/document/d/1np9JUQaU7-6Nn5cNSgk74zTgbeovykfXudqCfzYlTvk/edit?usp=sharing) |
 | 27th October | [Observability](https://docs.google.com/presentation/d/1anfSprFzfemkjfijHGs532_BBRnKwWSkskPbaIEia7I/edit?usp=sharing)   | [Video]  | [HW] |
 | 3rd November | [Multimodal Agents](https://docs.google.com/presentation/d/1c_6eYftKN5gzJ_tYRxvbnwdpvsSsIFL1DljALzODjjs/edit?usp=sharing) | [Video] | [HW] |
 | 10th November | [Human and AI](https://docs.google.com/presentation/d/1OAGmuUqnmstuzrdNdZKKXPuglJg5mxGfygONHkYrUnA/edit?usp=sharing)    | [Video] |   |
