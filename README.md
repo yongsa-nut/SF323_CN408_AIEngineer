@@ -37,6 +37,6 @@ The course will survey the recent emerging technologies in AI engineer. The topi
 | 13th October | [Knowledge Agents](https://docs.google.com/presentation/d/1c_kGY0UTSfTOE4k4rv5TiVaBPcV_u4GBgyOaT_uiWPA/edit?usp=sharing) | [Video](https://youtu.be/8Y97IwfXNXY) | [HW 9](https://docs.google.com/document/d/1ktrB1lfNcUiv_4B5H-aBfVUL2XCgCQfzQHFSOnA_sBg/edit?usp=sharing) |
 | 20th October | [Safety](https://docs.google.com/presentation/d/1Q0x7J3SWK9U-RUF3pHHTDRN4qJQTYhGFndZ6k5OCXZI/edit?usp=sharing)          | [Video](https://youtu.be/uMNpNu00bj0)  | [HW 10](https://docs.google.com/document/d/1np9JUQaU7-6Nn5cNSgk74zTgbeovykfXudqCfzYlTvk/edit?usp=sharing) |
 | 27th October | [Error Analysis and Observability](https://docs.google.com/presentation/d/1anfSprFzfemkjfijHGs532_BBRnKwWSkskPbaIEia7I/edit?usp=sharing)   | [Video](https://youtu.be/ejQNlw9s_cw)  | [HW 11](https://colab.research.google.com/github/yongsa-nut/SF323_CN408_AIEngineer/blob/main/HW11.ipynb ) |
-| 3rd November | [Multimodal Agents](https://docs.google.com/presentation/d/1c_6eYftKN5gzJ_tYRxvbnwdpvsSsIFL1DljALzODjjs/edit?usp=sharing) | [Video] |   |
-| 10th November | [Human and AI](https://docs.google.com/presentation/d/1OAGmuUqnmstuzrdNdZKKXPuglJg5mxGfygONHkYrUnA/edit?usp=sharing)    | [Video] |   |
+| 3rd November | [Multimodal Agents](https://docs.google.com/presentation/d/1c_6eYftKN5gzJ_tYRxvbnwdpvsSsIFL1DljALzODjjs/edit?usp=sharing) | [Video](https://youtu.be/OkZ0fEZxSCo) |   |
+| 10th November | [Human and AI](https://docs.google.com/presentation/d/1OAGmuUqnmstuzrdNdZKKXPuglJg5mxGfygONHkYrUnA/edit?usp=sharing)    | [Video](https://youtu.be/xm-uiqf5CDg) |   |
 | 17th November | Final Project Presentation   | | |
